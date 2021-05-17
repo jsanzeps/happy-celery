@@ -48,3 +48,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://happy-celery-24095.netlify.app'
